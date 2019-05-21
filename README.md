@@ -1,2 +1,2 @@
 # playground-js
-JavaScripty playground
+JavaScripty playground.
